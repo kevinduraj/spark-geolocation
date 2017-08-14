@@ -1,10 +1,10 @@
-Spark 2.0 - Compute PI
-======================
+Spark 2.1.1 - Maxmind IP Lookups
+================================
 
-[https://github.com/apache/spark/blob/master/examples/src/main/scala/org/apache/spark/examples/SparkPi.scala](https://github.com/apache/spark/blob/master/examples/src/main/scala/org/apache/spark/examples/SparkPi.scala)
+* [https://github.com/snowplow/scala-maxmind-iplookups](https://github.com/snowplow/scala-maxmind-iplookups)
 
 
-###Git
+### Git
 * git push --set-upstream origin master 
 
 
