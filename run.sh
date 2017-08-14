@@ -14,7 +14,7 @@ time spark-submit                                       \
     --master "local[4]"                                 \
     --driver-memory   16G                               \
     --executor-memory 8G                                \
-    target/scala-2.11/spark-pi_2.11-0.1.jar             \
+    target/scala-2.11/spark-geolocation_2.11-0.1.jar    \
     "100" 
 
 #-----------------------------------------------------------------------------------#
@@ -25,7 +25,7 @@ time spark-submit                                       \
     --master spark://69.13.39.34:7077                   \
     --driver-memory   16G                               \
     --executor-memory 8G                                \
-    target/scala-2.11/spark-pi_2.11-0.1.jar             \
+    target/scala-2.11/spark-geolocation_2.11-0.1.jar    \
     "100" 
 
 #-----------------------------------------------------------------------------------#
@@ -40,4 +40,3 @@ else
 
 fi
 #-----------------------------------------------------------------------------------#
-reset
