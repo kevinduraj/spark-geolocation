@@ -5,6 +5,6 @@ Spark 2.0 - Compute PI
 
 
 ###Git
-* git remote add origin git@github.com:kevinduraj/spark-sandbox.git
+* git push --set-upstream origin master 
 
 
