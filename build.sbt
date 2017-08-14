@@ -1,4 +1,4 @@
-name := "spark-pi"
+name := "spark-geolocation"
 
 version := "0.1"
 
